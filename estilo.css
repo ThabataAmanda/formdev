@@ -22,7 +22,9 @@
 fieldset {
     border: 0;
 }
-
+img{
+margin-left: 12%;
+}
 body{
     background-color: #ddffe9;
     font-family: sans-serif;
@@ -88,8 +90,8 @@ fieldset.grupo .campo {
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
     position: absolute;
-    top: 110%;
-    left: 50%;
+    top: 132%;
+    left: 51%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
